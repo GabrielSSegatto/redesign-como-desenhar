@@ -58,5 +58,5 @@ Este código é disponibilizado como **Open Source** para fins de estudo.
 <div align="center">
   Desenvolvido com 💻 e ☕ por <strong>Gabriel Soares Segatto</strong>
   
-  [LinkedIn](https://www.linkedin.com/jobs/) • [Portfólio](SEU_LINK_PORTFOLIO)
+  [LinkedIn](https://www.linkedin.com/jobs/) 
 </div>
