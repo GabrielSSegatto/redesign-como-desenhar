@@ -5,6 +5,8 @@
 > 
 > 👉 **Site Oficial do Curso:** [comodesenhar.net](https://comodesenhar.net)
 
+## Para acessar o redesign acesse [httpps://redesign-como-desenhar.vercel.app](https://redesign-como-desenhar.vercel.app/)
+
 ![Preview do Projeto](img/preview-github.png)
 
 ---
